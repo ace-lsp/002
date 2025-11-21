@@ -1,0 +1,5 @@
+﻿{
+  "extensions": [".jpg", ".jpeg", ".png", ".webp", ".bmp", ".tiff", ".gif"],
+  "last_folder": "",
+  "max_workers": 4
+}
